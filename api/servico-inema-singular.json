@@ -1,0 +1,19 @@
+{
+  "slug": "servico-inema-singular",
+  "tipo": "servico",
+  "titulo": "INEMA Singular — mentoria, estratégia e consultoria de alto nível",
+  "resumo": "INEMA Singular é o nível mais alto do ecossistema: mentoria, estratégia e transformação para pessoas e empresas, vendido sob negociação (pacote ou contrato anual) — não é assinatura self-service. Substitui o que era o INEMA.VIP e absorve mentoria e consultoria.",
+  "publico": [
+    "empresarios",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "servico-assinatura-inema-pro",
+    "servico-inema-imersao",
+    "servico-palestras",
+    "diferenca-entre-club-pro-vip"
+  ],
+  "url": "https://inema.club/conhecimento/servico-inema-singular/"
+}

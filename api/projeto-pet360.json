@@ -1,0 +1,17 @@
+{
+  "slug": "projeto-pet360",
+  "tipo": "projeto",
+  "titulo": "pet360 — SaaS open source para clínicas vet, pet shops e ONGs",
+  "resumo": "SaaS open source e multi-tenant de gestão para clínicas veterinárias, pet shops, hotéis para pets e ONGs.",
+  "publico": [
+    "empresarios",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-bela360",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-pet360/"
+}

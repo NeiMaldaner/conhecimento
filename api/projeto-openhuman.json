@@ -1,0 +1,16 @@
+{
+  "slug": "projeto-openhuman",
+  "tipo": "projeto",
+  "titulo": "openhuman — assistente de IA agêntico open-source e local-first",
+  "resumo": "Assistente de IA agêntico open-source, local-first, com mais de 118 integrações via OAuth.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-cerebro-inema",
+    "projeto-os-agentes"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-openhuman/"
+}

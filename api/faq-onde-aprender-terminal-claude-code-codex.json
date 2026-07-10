@@ -1,0 +1,18 @@
+{
+  "slug": "faq-onde-aprender-terminal-claude-code-codex",
+  "tipo": "faq",
+  "titulo": "Onde aprender a usar o terminal e ferramentas como Claude Code e Codex?",
+  "resumo": "O INEMA tem um curso específico para quem nunca usou terminal (Do Zero ao Deploy) e cursos completos e dedicados para cada agente de codificação: Claude Code Básico e Codex Básico.",
+  "publico": [
+    "iniciantes",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-do-zero-ao-deploy",
+    "curso-claude-code-basico",
+    "curso-codex-basico"
+  ],
+  "url": "https://inema.club/conhecimento/faq-onde-aprender-terminal-claude-code-codex/"
+}

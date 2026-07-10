@@ -1,0 +1,18 @@
+{
+  "slug": "curso-vibe-coding",
+  "tipo": "curso",
+  "titulo": "Vibe Coding — Da Ideia ao Produto com IA",
+  "resumo": "Curso que ensina a construir software descrevendo o que se quer em linguagem natural para uma IA gerar o código (o método \"vibe coding\", termo cunhado por Andrej Karpathy em fev/2025). 4 trilhas, 31 módulos, 217 tópicos, para leigos, executivos e técnicos.",
+  "publico": [
+    "iniciantes",
+    "profissionais",
+    "empresarios"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-agentic-engineering-masterclass",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/curso-vibe-coding/"
+}

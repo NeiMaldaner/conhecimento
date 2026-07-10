@@ -1,0 +1,19 @@
+{
+  "slug": "faq-criar-agentes-de-ia-sem-programar",
+  "tipo": "faq",
+  "titulo": "Como aprender a criar agentes de IA sem saber programar?",
+  "resumo": "O curso os-agentes do INEMA foi desenhado especificamente para isso — guia pessoas não técnicas na construção de um agente próprio, uma camada por vez, sem exigir experiência prévia de programação.",
+  "publico": [
+    "iniciantes",
+    "profissionais",
+    "empresarios"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-os-agentes",
+    "curso-intelecto",
+    "curso-agentic-engineering-masterclass"
+  ],
+  "url": "https://inema.club/conhecimento/faq-criar-agentes-de-ia-sem-programar/"
+}

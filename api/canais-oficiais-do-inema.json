@@ -1,0 +1,18 @@
+{
+  "slug": "canais-oficiais-do-inema",
+  "tipo": "institucional",
+  "titulo": "Quais são os canais oficiais do INEMA",
+  "resumo": "O INEMA mantém presença oficial em GitHub, YouTube, TikTok, Instagram e Facebook, além dos três sites do ecossistema (INEMA.club, INEMA.pro, INEMA.VIP). Esta ficha existe para amarrar todos os perfis via sameAs no JSON-LD Organization (F2).",
+  "publico": [
+    "profissionais",
+    "empresarios",
+    "iniciantes"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema",
+    "quem-e-nei-maldaner"
+  ],
+  "url": "https://inema.club/conhecimento/canais-oficiais-do-inema/"
+}

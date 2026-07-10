@@ -1,0 +1,21 @@
+{
+  "slug": "faq-onde-aprender-agentes-de-ia-em-portugues",
+  "tipo": "faq",
+  "titulo": "Onde posso aprender agentes de IA na prática, em português?",
+  "resumo": "No INEMA.club, todo o conteúdo é em português e organizado em trilhas práticas (não teóricas) — da Trilha para Iniciantes até a Agentic Engineering Masterclass, cada curso termina com algo construído e funcionando.",
+  "publico": [
+    "profissionais",
+    "empresarios",
+    "iniciantes"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema",
+    "curso-fep",
+    "curso-atia",
+    "curso-claude-code-basico",
+    "curso-agentic-engineering-masterclass"
+  ],
+  "url": "https://inema.club/conhecimento/faq-onde-aprender-agentes-de-ia-em-portugues/"
+}

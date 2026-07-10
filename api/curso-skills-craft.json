@@ -1,0 +1,16 @@
+{
+  "slug": "curso-skills-craft",
+  "tipo": "curso",
+  "titulo": "Criando Agent Skills — Do Catálogo à Sua Primeira Skill",
+  "resumo": "Curso data-driven sobre Agent Skills (extensões do Claude Code): parte de uma análise real de 39.366 skills catalogadas no skills.sh (5.075 repositórios, 53,9M instalações) para ensinar a reconhecer boas skills e criar a própria. 5 trilhas, 25 módulos.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-claude-code-basico",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/curso-skills-craft/"
+}

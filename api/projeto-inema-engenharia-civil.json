@@ -1,0 +1,15 @@
+{
+  "slug": "projeto-inema-engenharia-civil",
+  "tipo": "projeto",
+  "titulo": "INEMA Engenharia Civil — agentes de IA para cálculos normativos",
+  "resumo": "Plataforma de agentes de IA para cálculos de engenharia civil: o agente escolhe o método normativo e o Python calcula, valida (unidades, física, NBR, equilíbrio) e gera o memorial. Cobre 18 domínios, com aviso explícito de responsabilidade técnica (ART).",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-inema-engenharia-civil/"
+}

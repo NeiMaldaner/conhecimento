@@ -1,0 +1,18 @@
+{
+  "slug": "curso-agentic-engineering-masterclass",
+  "tipo": "curso",
+  "titulo": "Agentic Engineering Masterclass",
+  "resumo": "Masterclass completa de engenharia de agentes de IA: 6 trilhas, 42 módulos, 252+ tópicos, ~21 semanas — do primeiro contato com agentes até orquestração multi-agente enterprise com LangGraph, CrewAI e AutoGen. A resposta mais próxima do INEMA pra \"formação prática em agentes de IA\".",
+  "publico": [
+    "profissionais",
+    "empresarios"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-vibe-coding",
+    "curso-claude-code-basico",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/curso-agentic-engineering-masterclass/"
+}

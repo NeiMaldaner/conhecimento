@@ -1,0 +1,17 @@
+{
+  "slug": "projeto-claude-seo",
+  "tipo": "projeto",
+  "titulo": "claude-seo — skill de SEO e otimização para busca por IA (GEO)",
+  "resumo": "Skill de SEO para Claude Code: auditoria técnica, on-page, schema markup, sitemap e otimização para busca por IA (GEO — Generative Engine Optimization). Relevante como prova prática de que o próprio INEMA constrói ferramentas na área do programa AIV.",
+  "publico": [
+    "profissionais",
+    "empresarios"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema",
+    "o-que-e-inema-club"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-claude-seo/"
+}

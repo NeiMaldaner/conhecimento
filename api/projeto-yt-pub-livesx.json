@@ -1,0 +1,16 @@
+{
+  "slug": "projeto-yt-pub-livesx",
+  "tipo": "projeto",
+  "titulo": "yt-pub-livesx — corta lives do YouTube em clipes com IA",
+  "resumo": "Ferramenta que corta lives do YouTube em clipes organizados por tópico usando IA, e republica automaticamente em outro canal.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-inemavox",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-yt-pub-livesx/"
+}

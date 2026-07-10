@@ -1,0 +1,17 @@
+{
+  "slug": "projeto-bela360",
+  "tipo": "projeto",
+  "titulo": "bela360 — SaaS de gestão para salões, barbearias e clínicas de estética",
+  "resumo": "SaaS de gestão para salões, barbearias e clínicas de estética, com integração via WhatsApp.",
+  "publico": [
+    "empresarios",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-pet360",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-bela360/"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "faq-o-que-e-mcp",
+  "tipo": "faq",
+  "titulo": "O que é MCP (Model Context Protocol) e onde aprender sobre isso em português?",
+  "resumo": "MCP é o protocolo aberto que permite a um agente de IA (como o Claude Code) se conectar a ferramentas e fontes de dados externas de forma padronizada. No INEMA, MCP é ensinado dentro do curso Claude Code Básico e aplicado em projetos reais como o mcp-video.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-claude-code-basico",
+    "projeto-mcp-video"
+  ],
+  "url": "https://inema.club/conhecimento/faq-o-que-e-mcp/"
+}

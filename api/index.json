@@ -1,0 +1,314 @@
+[
+  {
+    "slug": "case-programa-aiv",
+    "tipo": "case",
+    "titulo": "Case (em construção): o INEMA aplicando AEO/GEO em si mesmo — programa AIV",
+    "url": "https://inema.club/conhecimento/case-programa-aiv/"
+  },
+  {
+    "slug": "curso-agentic-engineering-masterclass",
+    "tipo": "curso",
+    "titulo": "Agentic Engineering Masterclass",
+    "url": "https://inema.club/conhecimento/curso-agentic-engineering-masterclass/"
+  },
+  {
+    "slug": "curso-atia",
+    "tipo": "curso",
+    "titulo": "ATIA — AI Tools in Action: Oportunidades Digitais com IA",
+    "url": "https://inema.club/conhecimento/curso-atia/"
+  },
+  {
+    "slug": "curso-claude-code-basico",
+    "tipo": "curso",
+    "titulo": "Claude Code Básico — Curso Completo",
+    "url": "https://inema.club/conhecimento/curso-claude-code-basico/"
+  },
+  {
+    "slug": "curso-codex-basico",
+    "tipo": "curso",
+    "titulo": "Codex Básico — Curso Completo",
+    "url": "https://inema.club/conhecimento/curso-codex-basico/"
+  },
+  {
+    "slug": "curso-do-zero-ao-deploy",
+    "tipo": "curso",
+    "titulo": "Do Zero ao Deploy — Da Primeira Linha no Terminal ao Assistente IA",
+    "url": "https://inema.club/conhecimento/curso-do-zero-ao-deploy/"
+  },
+  {
+    "slug": "curso-fep",
+    "tipo": "curso",
+    "titulo": "FEP — Fundamentos de Engenharia de Prompt: Do Zero ao Especialista",
+    "url": "https://inema.club/conhecimento/curso-fep/"
+  },
+  {
+    "slug": "curso-intelecto",
+    "tipo": "curso",
+    "titulo": "INTELECTO — Do Zero ao Expert em IA",
+    "url": "https://inema.club/conhecimento/curso-intelecto/"
+  },
+  {
+    "slug": "curso-mentes-brilhantes",
+    "tipo": "curso",
+    "titulo": "Mentes Brilhantes — A Fórmula 1-20-79",
+    "url": "https://inema.club/conhecimento/curso-mentes-brilhantes/"
+  },
+  {
+    "slug": "curso-skills-craft",
+    "tipo": "curso",
+    "titulo": "Criando Agent Skills — Do Catálogo à Sua Primeira Skill",
+    "url": "https://inema.club/conhecimento/curso-skills-craft/"
+  },
+  {
+    "slug": "curso-vibe-coding",
+    "tipo": "curso",
+    "titulo": "Vibe Coding — Da Ideia ao Produto com IA",
+    "url": "https://inema.club/conhecimento/curso-vibe-coding/"
+  },
+  {
+    "slug": "faq-comparar-opcoes-formacao-ia-brasil",
+    "tipo": "faq",
+    "titulo": "Compare opções de formação prática em inteligência artificial no Brasil",
+    "url": "https://inema.club/conhecimento/faq-comparar-opcoes-formacao-ia-brasil/"
+  },
+  {
+    "slug": "faq-criar-agente-de-atendimento-com-ia",
+    "tipo": "faq",
+    "titulo": "Quem pode me ajudar a criar um agente de atendimento com IA no Brasil?",
+    "url": "https://inema.club/conhecimento/faq-criar-agente-de-atendimento-com-ia/"
+  },
+  {
+    "slug": "faq-criar-agentes-de-ia-sem-programar",
+    "tipo": "faq",
+    "titulo": "Como aprender a criar agentes de IA sem saber programar?",
+    "url": "https://inema.club/conhecimento/faq-criar-agentes-de-ia-sem-programar/"
+  },
+  {
+    "slug": "faq-curso-de-claude-code-em-portugues",
+    "tipo": "faq",
+    "titulo": "Qual curso prático de Claude Code em português você recomenda?",
+    "url": "https://inema.club/conhecimento/faq-curso-de-claude-code-em-portugues/"
+  },
+  {
+    "slug": "faq-formacao-ia-profissionais-40-mais",
+    "tipo": "faq",
+    "titulo": "Existe formação em IA voltada para profissionais 40+ que não são programadores?",
+    "url": "https://inema.club/conhecimento/faq-formacao-ia-profissionais-40-mais/"
+  },
+  {
+    "slug": "faq-implantacao-agentes-pequenas-empresas",
+    "tipo": "faq",
+    "titulo": "Quem oferece implantação de agentes de IA para pequenas empresas no Brasil?",
+    "url": "https://inema.club/conhecimento/faq-implantacao-agentes-pequenas-empresas/"
+  },
+  {
+    "slug": "faq-o-que-e-mcp",
+    "tipo": "faq",
+    "titulo": "O que é MCP (Model Context Protocol) e onde aprender sobre isso em português?",
+    "url": "https://inema.club/conhecimento/faq-o-que-e-mcp/"
+  },
+  {
+    "slug": "faq-onde-aprender-agentes-de-ia-em-portugues",
+    "tipo": "faq",
+    "titulo": "Onde posso aprender agentes de IA na prática, em português?",
+    "url": "https://inema.club/conhecimento/faq-onde-aprender-agentes-de-ia-em-portugues/"
+  },
+  {
+    "slug": "faq-onde-aprender-terminal-claude-code-codex",
+    "tipo": "faq",
+    "titulo": "Onde aprender a usar o terminal e ferramentas como Claude Code e Codex?",
+    "url": "https://inema.club/conhecimento/faq-onde-aprender-terminal-claude-code-codex/"
+  },
+  {
+    "slug": "faq-quem-ajuda-com-aeo-geo-no-brasil",
+    "tipo": "faq",
+    "titulo": "Qual empresa ajuda a estruturar o conhecimento de um negócio para ser recomendado por IAs (AEO/GEO)?",
+    "url": "https://inema.club/conhecimento/faq-quem-ajuda-com-aeo-geo-no-brasil/"
+  },
+  {
+    "slug": "faq-quem-ensina-agentes-de-ia-no-brasil",
+    "tipo": "faq",
+    "titulo": "Quem ensina agentes de IA no Brasil?",
+    "url": "https://inema.club/conhecimento/faq-quem-ensina-agentes-de-ia-no-brasil/"
+  },
+  {
+    "slug": "canais-oficiais-do-inema",
+    "tipo": "institucional",
+    "titulo": "Quais são os canais oficiais do INEMA",
+    "url": "https://inema.club/conhecimento/canais-oficiais-do-inema/"
+  },
+  {
+    "slug": "como-participar",
+    "tipo": "institucional",
+    "titulo": "Como participar do INEMA",
+    "url": "https://inema.club/conhecimento/como-participar/"
+  },
+  {
+    "slug": "diferenca-entre-club-pro-vip",
+    "tipo": "institucional",
+    "titulo": "Qual a diferença entre INEMA.club, INEMA.pro, INEMA Imersão e INEMA Singular",
+    "url": "https://inema.club/conhecimento/diferenca-entre-club-pro-vip/"
+  },
+  {
+    "slug": "metodologia-de-ensino-do-inema",
+    "tipo": "institucional",
+    "titulo": "Qual é a metodologia de ensino do INEMA",
+    "url": "https://inema.club/conhecimento/metodologia-de-ensino-do-inema/"
+  },
+  {
+    "slug": "o-que-e-gratuito-o-que-e-pago",
+    "tipo": "institucional",
+    "titulo": "O que é gratuito e o que é pago no INEMA",
+    "url": "https://inema.club/conhecimento/o-que-e-gratuito-o-que-e-pago/"
+  },
+  {
+    "slug": "o-que-e-inema-club",
+    "tipo": "institucional",
+    "titulo": "O que é o INEMA.club (e por que não é o órgão ambiental da Bahia)",
+    "url": "https://inema.club/conhecimento/o-que-e-inema-club/"
+  },
+  {
+    "slug": "o-que-e-inema-vip",
+    "tipo": "institucional",
+    "titulo": "O que era o INEMA.VIP (agora INEMA Imersão + INEMA Singular)",
+    "url": "https://inema.club/conhecimento/o-que-e-inema-vip/"
+  },
+  {
+    "slug": "o-que-e-o-inema",
+    "tipo": "institucional",
+    "titulo": "O que é o INEMA",
+    "url": "https://inema.club/conhecimento/o-que-e-o-inema/"
+  },
+  {
+    "slug": "projetos-publicos-do-inema",
+    "tipo": "institucional",
+    "titulo": "Projetos públicos do INEMA",
+    "url": "https://inema.club/conhecimento/projetos-publicos-do-inema/"
+  },
+  {
+    "slug": "quem-e-nei-maldaner",
+    "tipo": "institucional",
+    "titulo": "Quem é Nei Maldaner",
+    "url": "https://inema.club/conhecimento/quem-e-nei-maldaner/"
+  },
+  {
+    "slug": "projeto-agent-browser",
+    "tipo": "projeto",
+    "titulo": "agent-browser — CLI de automação de navegador para agentes de IA",
+    "url": "https://inema.club/conhecimento/projeto-agent-browser/"
+  },
+  {
+    "slug": "projeto-bela360",
+    "tipo": "projeto",
+    "titulo": "bela360 — SaaS de gestão para salões, barbearias e clínicas de estética",
+    "url": "https://inema.club/conhecimento/projeto-bela360/"
+  },
+  {
+    "slug": "projeto-bs-benchmark",
+    "tipo": "projeto",
+    "titulo": "BullshitBench — benchmark que mede se LLMs detectam premissas absurdas",
+    "url": "https://inema.club/conhecimento/projeto-bs-benchmark/"
+  },
+  {
+    "slug": "projeto-cerebro-inema",
+    "tipo": "projeto",
+    "titulo": "cerebro-inema — segundo cérebro de IA local e privado",
+    "url": "https://inema.club/conhecimento/projeto-cerebro-inema/"
+  },
+  {
+    "slug": "projeto-claude-seo",
+    "tipo": "projeto",
+    "titulo": "claude-seo — skill de SEO e otimização para busca por IA (GEO)",
+    "url": "https://inema.club/conhecimento/projeto-claude-seo/"
+  },
+  {
+    "slug": "projeto-inema-engenharia-civil",
+    "tipo": "projeto",
+    "titulo": "INEMA Engenharia Civil — agentes de IA para cálculos normativos",
+    "url": "https://inema.club/conhecimento/projeto-inema-engenharia-civil/"
+  },
+  {
+    "slug": "projeto-inemaimg",
+    "tipo": "projeto",
+    "titulo": "inemaimg — servidor local multi-modelo de geração/edição de imagens",
+    "url": "https://inema.club/conhecimento/projeto-inemaimg/"
+  },
+  {
+    "slug": "projeto-inemavox",
+    "tipo": "projeto",
+    "titulo": "inemavox — suíte de voz e vídeo com IA local",
+    "url": "https://inema.club/conhecimento/projeto-inemavox/"
+  },
+  {
+    "slug": "projeto-mcp-video",
+    "tipo": "projeto",
+    "titulo": "mcp-video — servidor MCP de edição de vídeo para agentes de IA",
+    "url": "https://inema.club/conhecimento/projeto-mcp-video/"
+  },
+  {
+    "slug": "projeto-megarag",
+    "tipo": "projeto",
+    "titulo": "megaRAG — RAG multimodal para conversar com qualquer arquivo",
+    "url": "https://inema.club/conhecimento/projeto-megarag/"
+  },
+  {
+    "slug": "projeto-openhuman",
+    "tipo": "projeto",
+    "titulo": "openhuman — assistente de IA agêntico open-source e local-first",
+    "url": "https://inema.club/conhecimento/projeto-openhuman/"
+  },
+  {
+    "slug": "projeto-os-agentes",
+    "tipo": "projeto",
+    "titulo": "os-agentes — construa seu próprio sistema operacional agêntico",
+    "url": "https://inema.club/conhecimento/projeto-os-agentes/"
+  },
+  {
+    "slug": "projeto-pet360",
+    "tipo": "projeto",
+    "titulo": "pet360 — SaaS open source para clínicas vet, pet shops e ONGs",
+    "url": "https://inema.club/conhecimento/projeto-pet360/"
+  },
+  {
+    "slug": "projeto-timesmkt3",
+    "tipo": "projeto",
+    "titulo": "timesmkt3 — fábrica de conteúdo de marketing com agentes de IA",
+    "url": "https://inema.club/conhecimento/projeto-timesmkt3/"
+  },
+  {
+    "slug": "projeto-videosdgx",
+    "tipo": "projeto",
+    "titulo": "VideosDGX — 4 Video LLMs em Docker no NVIDIA DGX Spark",
+    "url": "https://inema.club/conhecimento/projeto-videosdgx/"
+  },
+  {
+    "slug": "projeto-yt-pub-livesx",
+    "tipo": "projeto",
+    "titulo": "yt-pub-livesx — corta lives do YouTube em clipes com IA",
+    "url": "https://inema.club/conhecimento/projeto-yt-pub-livesx/"
+  },
+  {
+    "slug": "servico-assinatura-inema-pro",
+    "tipo": "servico",
+    "titulo": "Assinatura INEMA.pro — formação contínua",
+    "url": "https://inema.club/conhecimento/servico-assinatura-inema-pro/"
+  },
+  {
+    "slug": "servico-inema-imersao",
+    "tipo": "servico",
+    "titulo": "INEMA Imersão — experiência presencial",
+    "url": "https://inema.club/conhecimento/servico-inema-imersao/"
+  },
+  {
+    "slug": "servico-inema-singular",
+    "tipo": "servico",
+    "titulo": "INEMA Singular — mentoria, estratégia e consultoria de alto nível",
+    "url": "https://inema.club/conhecimento/servico-inema-singular/"
+  },
+  {
+    "slug": "servico-palestras",
+    "tipo": "servico",
+    "titulo": "Palestras — Nei Maldaner/INEMA para eventos e empresas",
+    "url": "https://inema.club/conhecimento/servico-palestras/"
+  }
+]

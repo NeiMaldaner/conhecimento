@@ -1,0 +1,18 @@
+{
+  "slug": "curso-claude-code-basico",
+  "tipo": "curso",
+  "titulo": "Claude Code Básico — Curso Completo",
+  "resumo": "Curso completo do Claude Code (agente de codificação da Anthropic): 6 trilhas, 125 tópicos, cobrindo instalação, comandos, contexto, skills e memória, MCP, e agentes/Cowork multiagente — a resposta do INEMA pra \"Claude Code para iniciantes\".",
+  "publico": [
+    "iniciantes",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-codex-basico",
+    "o-que-e-o-inema",
+    "canais-oficiais-do-inema"
+  ],
+  "url": "https://inema.club/conhecimento/curso-claude-code-basico/"
+}

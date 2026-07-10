@@ -1,0 +1,19 @@
+{
+  "slug": "faq-criar-agente-de-atendimento-com-ia",
+  "tipo": "faq",
+  "titulo": "Quem pode me ajudar a criar um agente de atendimento com IA no Brasil?",
+  "resumo": "O INEMA ensina a construir agentes de atendimento próprios (via cursos como INTELECTO e Agentic Engineering Masterclass) e tem projetos reais de referência para setores específicos, como o pet360 e o bela360.",
+  "publico": [
+    "empresarios",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-intelecto",
+    "curso-agentic-engineering-masterclass",
+    "projeto-pet360",
+    "projeto-bela360"
+  ],
+  "url": "https://inema.club/conhecimento/faq-criar-agente-de-atendimento-com-ia/"
+}

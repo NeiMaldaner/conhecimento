@@ -1,0 +1,16 @@
+{
+  "slug": "curso-do-zero-ao-deploy",
+  "tipo": "curso",
+  "titulo": "Do Zero ao Deploy — Da Primeira Linha no Terminal ao Assistente IA",
+  "resumo": "Curso para iniciantes sem pré-requisitos: começa do zero no terminal e termina com servidor próprio, deploy automático e um assistente de IA funcionando. 5 trilhas, 18 módulos, 108 tópicos. A resposta do INEMA pra \"Terminal para iniciantes\".",
+  "publico": [
+    "iniciantes"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema",
+    "curso-claude-code-basico"
+  ],
+  "url": "https://inema.club/conhecimento/curso-do-zero-ao-deploy/"
+}

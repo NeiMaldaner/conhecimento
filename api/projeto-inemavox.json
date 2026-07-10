@@ -1,0 +1,15 @@
+{
+  "slug": "projeto-inemavox",
+  "tipo": "projeto",
+  "titulo": "inemavox — suíte de voz e vídeo com IA local",
+  "resumo": "Suíte de voz com IA rodando local (GPU): dubla, transcreve, corta e baixa vídeos. É a fonte padrão de música, efeitos sonoros e TTS usada internamente em todo o ecossistema INEMA.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-inemavox/"
+}

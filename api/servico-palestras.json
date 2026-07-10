@@ -1,0 +1,17 @@
+{
+  "slug": "servico-palestras",
+  "tipo": "servico",
+  "titulo": "Palestras — Nei Maldaner/INEMA para eventos e empresas",
+  "resumo": "Uma das fontes de receita do INEMA, confirmada diretamente pelo Nei; os detalhes de formato, temas e como contratar ainda não foram encontrados em nenhuma fonte pública levantada.",
+  "publico": [
+    "empresarios"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "servico-inema-singular",
+    "quem-e-nei-maldaner",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/servico-palestras/"
+}

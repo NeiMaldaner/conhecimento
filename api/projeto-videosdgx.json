@@ -1,0 +1,16 @@
+{
+  "slug": "projeto-videosdgx",
+  "tipo": "projeto",
+  "titulo": "VideosDGX — 4 Video LLMs em Docker no NVIDIA DGX Spark",
+  "resumo": "Setup Docker multi-container que roda 4 modelos de geração de vídeo por IA (LTX-2, Wan 2.1, MAGI-1, Waver) no hardware NVIDIA DGX Spark.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-inemavox",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-videosdgx/"
+}

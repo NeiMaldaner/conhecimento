@@ -1,0 +1,15 @@
+{
+  "slug": "projeto-mcp-video",
+  "tipo": "projeto",
+  "titulo": "mcp-video — servidor MCP de edição de vídeo para agentes de IA",
+  "resumo": "Servidor MCP (Model Context Protocol) de edição de vídeo com guardrails para agentes de IA — 119 ferramentas cobrindo FFmpeg, legendas, áudio, efeitos, HyperFrames e validação preflight.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-mcp-video/"
+}

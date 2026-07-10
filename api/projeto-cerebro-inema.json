@@ -1,0 +1,16 @@
+{
+  "slug": "projeto-cerebro-inema",
+  "tipo": "projeto",
+  "titulo": "cerebro-inema — segundo cérebro de IA local e privado",
+  "resumo": "Sistema de memória para agentes de IA com 3 cérebros (Projeto, Self, Conhecimento), em português, rodando local e privado com Obsidian + Claude Code.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-os-agentes",
+    "curso-claude-code-basico"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-cerebro-inema/"
+}

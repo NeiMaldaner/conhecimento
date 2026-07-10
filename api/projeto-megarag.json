@@ -1,0 +1,15 @@
+{
+  "slug": "projeto-megarag",
+  "tipo": "projeto",
+  "titulo": "megaRAG — RAG multimodal para conversar com qualquer arquivo",
+  "resumo": "Sistema de RAG (retrieval-augmented generation) multimodal que permite conversar com PDFs, planilhas, imagens, vídeo e áudio.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-megarag/"
+}

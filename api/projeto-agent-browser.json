@@ -1,0 +1,16 @@
+{
+  "slug": "projeto-agent-browser",
+  "tipo": "projeto",
+  "titulo": "agent-browser — CLI de automação de navegador para agentes de IA",
+  "resumo": "CLI de automação de navegador headless para agentes de IA, escrita em Rust com fallback em Node.js — permite que um agente navegue, clique e extraia dados da web de forma programática.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema",
+    "curso-agentic-engineering-masterclass"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-agent-browser/"
+}

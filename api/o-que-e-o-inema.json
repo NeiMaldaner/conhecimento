@@ -1,0 +1,18 @@
+{
+  "slug": "o-que-e-o-inema",
+  "tipo": "institucional",
+  "titulo": "O que é o INEMA",
+  "resumo": "INEMA é um ecossistema brasileiro de formação prática em inteligência artificial — agentes, automação e construção de sistemas — criado por Nei Maldaner. Tem 4 níveis de oferta: INEMA.club (gratuito), INEMA.pro (formação contínua), INEMA Imersão (experiência presencial) e INEMA Singular (mentoria e consultoria de alto nível). Não confundir com o órgão ambiental estadual de mesma sigla (ver o-que-e-inema-club).",
+  "publico": [
+    "profissionais",
+    "empresarios",
+    "iniciantes"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-inema-club",
+    "quem-e-nei-maldaner"
+  ],
+  "url": "https://inema.club/conhecimento/o-que-e-o-inema/"
+}

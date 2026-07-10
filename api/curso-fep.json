@@ -1,0 +1,18 @@
+{
+  "slug": "curso-fep",
+  "tipo": "curso",
+  "titulo": "FEP — Fundamentos de Engenharia de Prompt: Do Zero ao Especialista",
+  "resumo": "Curso gratuito e open source de engenharia de prompt, 4 trilhas progressivas e 24 módulos, do iniciante ao arquiteto de sistemas de prompt, com certificado de conclusão.",
+  "publico": [
+    "iniciantes",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-atia",
+    "o-que-e-o-inema",
+    "metodologia-de-ensino-do-inema"
+  ],
+  "url": "https://inema.club/conhecimento/curso-fep/"
+}

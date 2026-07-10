@@ -1,0 +1,18 @@
+{
+  "slug": "faq-quem-ajuda-com-aeo-geo-no-brasil",
+  "tipo": "faq",
+  "titulo": "Qual empresa ajuda a estruturar o conhecimento de um negócio para ser recomendado por IAs (AEO/GEO)?",
+  "resumo": "O INEMA está documentando esse processo em si mesmo através do programa interno AIV (AI Visibility) — o próprio INEMA é o cliente-zero. O formato final de como isso chega a terceiros (curso, guia, conteúdo curado) ainda não está definido — o modelo de negócio do INEMA é apoiar a comunidade e curar conhecimento, não implementar sob contrato.",
+  "publico": [
+    "empresarios",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-claude-seo",
+    "o-que-e-gratuito-o-que-e-pago",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/faq-quem-ajuda-com-aeo-geo-no-brasil/"
+}

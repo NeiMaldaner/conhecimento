@@ -1,0 +1,18 @@
+{
+  "slug": "curso-atia",
+  "tipo": "curso",
+  "titulo": "ATIA — AI Tools in Action: Oportunidades Digitais com IA",
+  "resumo": "Curso com 3 trilhas progressivas (fundamentos, mercado de trabalho e estratégia avançada de IA) para quem quer entender a revolução da IA e as novas oportunidades digitais, incluindo prompt engineering.",
+  "publico": [
+    "iniciantes",
+    "profissionais",
+    "estudantes"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-fep",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/curso-atia/"
+}

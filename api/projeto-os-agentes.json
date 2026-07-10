@@ -1,0 +1,17 @@
+{
+  "slug": "projeto-os-agentes",
+  "tipo": "projeto",
+  "titulo": "os-agentes — construa seu próprio sistema operacional agêntico",
+  "resumo": "Skill /os-agentes que guia uma pessoa não técnica na construção do próprio OS agêntico de 6 camadas, uma de cada vez, com memória entre sessões e auditoria por objetivo. É a base do curso AIOS do INEMA.",
+  "publico": [
+    "profissionais",
+    "empresarios"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema",
+    "projeto-cerebro-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-os-agentes/"
+}

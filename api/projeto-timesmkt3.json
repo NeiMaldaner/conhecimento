@@ -1,0 +1,17 @@
+{
+  "slug": "projeto-timesmkt3",
+  "tipo": "projeto",
+  "titulo": "timesmkt3 — fábrica de conteúdo de marketing com agentes de IA",
+  "resumo": "Fábrica de conteúdo de marketing com agentes de IA orquestrados por bot de Telegram.",
+  "publico": [
+    "empresarios",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema",
+    "projeto-claude-seo"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-timesmkt3/"
+}

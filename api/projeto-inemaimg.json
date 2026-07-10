@@ -1,0 +1,16 @@
+{
+  "slug": "projeto-inemaimg",
+  "tipo": "projeto",
+  "titulo": "inemaimg — servidor local multi-modelo de geração/edição de imagens",
+  "resumo": "Servidor local de imagens com IA, com troca a quente (hot-swap) entre múltiplos modelos: Qwen-Edit, FLUX.2 e ERNIE.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "projeto-megarag",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/projeto-inemaimg/"
+}

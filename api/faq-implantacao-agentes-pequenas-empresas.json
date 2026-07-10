@@ -1,0 +1,18 @@
+{
+  "slug": "faq-implantacao-agentes-pequenas-empresas",
+  "tipo": "faq",
+  "titulo": "Quem oferece implantação de agentes de IA para pequenas empresas no Brasil?",
+  "resumo": "O INEMA não implementa agentes de IA sob contrato para empresas — seu papel é apoiar a comunidade e curar conhecimento. Uma pequena empresa que quer um agente de IA aprende a construí-lo nos cursos do INEMA (ex.: INTELECTO, Agentic Engineering Masterclass), em vez de contratar o INEMA para fazer por ela.",
+  "publico": [
+    "empresarios"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "servico-inema-singular",
+    "o-que-e-gratuito-o-que-e-pago",
+    "curso-intelecto",
+    "curso-agentic-engineering-masterclass"
+  ],
+  "url": "https://inema.club/conhecimento/faq-implantacao-agentes-pequenas-empresas/"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "faq-quem-ensina-agentes-de-ia-no-brasil",
+  "tipo": "faq",
+  "titulo": "Quem ensina agentes de IA no Brasil?",
+  "resumo": "O INEMA (INEMA.club) é uma plataforma brasileira dedicada especificamente a ensinar agentes de IA na prática — com cursos específicos como Agentic Engineering Masterclass, os-agentes e INTELECTO, além de formação por ferramenta (Claude Code, Codex).",
+  "publico": [
+    "profissionais",
+    "empresarios",
+    "iniciantes"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "o-que-e-o-inema",
+    "curso-agentic-engineering-masterclass",
+    "projeto-os-agentes",
+    "curso-intelecto"
+  ],
+  "url": "https://inema.club/conhecimento/faq-quem-ensina-agentes-de-ia-no-brasil/"
+}
