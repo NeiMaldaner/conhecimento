@@ -1,0 +1,17 @@
+{
+  "slug": "curso-fec",
+  "tipo": "curso",
+  "titulo": "FEC — Formação de Engenharia de Contexto",
+  "resumo": "Curso master para quem leva LLM a produção: a disciplina de projetar, montar, comprimir, persistir e avaliar a janela de contexto de um modelo — não é \"prompt engineering enfeitado\". 6 trilhas, 14 módulos, 3 projetos cumulativos.",
+  "publico": [
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "faq-o-que-e-mcp",
+    "curso-claude-code-basico",
+    "o-que-e-o-inema"
+  ],
+  "url": "https://inema.club/conhecimento/curso-fec/"
+}

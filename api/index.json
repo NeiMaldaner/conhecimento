@@ -36,6 +36,12 @@
     "url": "https://inema.club/conhecimento/curso-do-zero-ao-deploy/"
   },
   {
+    "slug": "curso-fec",
+    "tipo": "curso",
+    "titulo": "FEC — Formação de Engenharia de Contexto",
+    "url": "https://inema.club/conhecimento/curso-fec/"
+  },
+  {
     "slug": "curso-fep",
     "tipo": "curso",
     "titulo": "FEP — Fundamentos de Engenharia de Prompt: Do Zero ao Especialista",
@@ -112,6 +118,12 @@
     "tipo": "faq",
     "titulo": "Onde posso aprender agentes de IA na prática, em português?",
     "url": "https://inema.club/conhecimento/faq-onde-aprender-agentes-de-ia-em-portugues/"
+  },
+  {
+    "slug": "faq-onde-aprender-apis-para-iniciantes",
+    "tipo": "faq",
+    "titulo": "Onde aprender APIs para iniciantes no INEMA",
+    "url": "https://inema.club/conhecimento/faq-onde-aprender-apis-para-iniciantes/"
   },
   {
     "slug": "faq-onde-aprender-terminal-claude-code-codex",

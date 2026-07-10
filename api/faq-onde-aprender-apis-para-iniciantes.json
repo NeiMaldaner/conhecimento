@@ -1,0 +1,18 @@
+{
+  "slug": "faq-onde-aprender-apis-para-iniciantes",
+  "tipo": "faq",
+  "titulo": "Onde aprender APIs para iniciantes no INEMA",
+  "resumo": "O INEMA não tem hoje um curso dedicado exclusivamente a \"APIs para iniciantes\" — é uma lacuna real do catálogo. O tema aparece espalhado em cursos mais amplos (DEV2K6, FEC, os cursos de Claude Code/Codex), mas não como um curso de fundamentos isolado.",
+  "publico": [
+    "iniciantes",
+    "profissionais"
+  ],
+  "status": "rascunho",
+  "atualizado_em": "2026-07-10",
+  "relacionados": [
+    "curso-fec",
+    "faq-o-que-e-mcp",
+    "curso-do-zero-ao-deploy"
+  ],
+  "url": "https://inema.club/conhecimento/faq-onde-aprender-apis-para-iniciantes/"
+}
