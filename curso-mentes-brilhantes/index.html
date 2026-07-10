@@ -29,5 +29,18 @@
   </article>
 </main>
 <footer><p>INEMA — <a href="https://inema.club" target="_blank" rel="noopener noreferrer">inema.club</a></p></footer>
+<script>
+(function(){
+  var NS='https://api.counterapi.dev/v1/inema-conhecimento/';
+  fetch(NS+'visitas/up').catch(function(){});
+  var seen;
+  try{ seen=localStorage.getItem('inema_conhecimento_uniq'); }catch(e){}
+  if(!seen){
+    fetch(NS+'unicos/up').then(function(){
+      try{ localStorage.setItem('inema_conhecimento_uniq','1'); }catch(e){}
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>
