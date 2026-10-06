@@ -2,13 +2,13 @@
   "slug": "servico-assinatura-inema-pro",
   "tipo": "servico",
   "titulo": "Assinatura INEMA.pro — formação contínua",
-  "resumo": "Assinatura paga que dá acesso a cursos, projetos e a comunidade INEMA: R$ 42/mês ou R$ 327/ano (~R$ 27/mês, economia de R$ 160). É o 2º nível da arquitetura de ofertas do INEMA (formação contínua) e está absorvendo os antigos assinantes do INEMA.VIP.",
+  "resumo": "Assinatura paga que dá acesso a cursos, projetos e à comunidade do INEMA (a comunidade INEMA.VIP faz parte do INEMA.pro). Preço promocional: R$ 42/mês ou R$ 327/ano (equivale a R$ 27/mês); valor atual em pay.inema.pro. É o 2º nível da evolução natural do visitante (formação contínua).",
   "publico": [
     "profissionais",
     "empresarios"
   ],
   "status": "rascunho",
-  "atualizado_em": "2026-07-10",
+  "atualizado_em": "2026-10-05",
   "relacionados": [
     "o-que-e-inema-club",
     "diferenca-entre-club-pro-vip",

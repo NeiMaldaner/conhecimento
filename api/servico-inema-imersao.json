@@ -1,14 +1,14 @@
 {
   "slug": "servico-inema-imersao",
   "tipo": "servico",
-  "titulo": "INEMA Imersão — experiência presencial",
-  "resumo": "INEMA Imersão é o terceiro nível da arquitetura de ofertas do INEMA — experiência presencial intensiva. Os exemplos hoje disponíveis (ex.: \"Arquitetura de Intenção\", R$ 2.987) são autoguiados/online; não está confirmado se a marca \"INEMA Imersão\" muda esse formato para presencial de fato ou é a mesma coisa com nome novo.",
+  "titulo": "INEMA Imersão — projetos do ecossistema INEMA Tech",
+  "resumo": "INEMA Imersão são projetos independentes que fazem parte do ecossistema INEMA Tech, cada um com escopo e preço próprios (ex.: Arquitetura de Intenção, R$ 2.987). Não é um nível de assinatura nem substitui o INEMA.pro: são projetos contratados individualmente.",
   "publico": [
     "profissionais",
     "empresarios"
   ],
   "status": "rascunho",
-  "atualizado_em": "2026-07-10",
+  "atualizado_em": "2026-10-05",
   "relacionados": [
     "o-que-e-o-inema",
     "curso-vibe-coding",
